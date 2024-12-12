@@ -1,5 +1,5 @@
-METHODOLOGY
-COMPONENTS REQUIRED
+# METHODOLOGY
+## COMPONENTS REQUIRED
 1. Arduino UNO R3
 2. HC-05 Bluetooth module
 3. Breadboard
@@ -9,7 +9,7 @@ COMPONENTS REQUIRED
 7. Cable
 8. Power bank
 
-CONNECTIONS
+## CONNECTIONS
 
 - HC-05 has 6 pins: 
   1.STATE
